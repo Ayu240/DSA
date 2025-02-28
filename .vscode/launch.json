@@ -1,0 +1,231 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ReverseList",
+            "request": "launch",
+            "mainClass": "ReverseList",
+            "projectName": "DSA_adbf7eaa"
+        },
+        {
+            "type": "java",
+            "name": "ArrryMonotonic",
+            "request": "launch",
+            "mainClass": "ArrryMonotonic",
+            "projectName": "DSA_adbf7eaa"
+        },
+        {
+            "type": "java",
+            "name": "online",
+            "request": "launch",
+            "mainClass": "online",
+            "projectName": "DSA_adbf7eaa"
+        },
+        {
+            "type": "java",
+            "name": "mxmn",
+            "request": "launch",
+            "mainClass": "mxmn",
+            "projectName": "DSA_adbf7eaa"
+        },
+        {
+            "type": "java",
+            "name": "Swaping",
+            "request": "launch",
+            "mainClass": "Swaping",
+            "projectName": "DSA_adbf7eaa"
+        },
+        {
+            "type": "java",
+            "name": "array001",
+            "request": "launch",
+            "mainClass": "array001",
+            "projectName": "DSA_adbf7eaa"
+        },
+        {
+            "type": "java",
+            "name": "array001",
+            "request": "launch",
+            "mainClass": "blocks.array001",
+            "projectName": "DSA_adbf7eaa"
+        },
+        {
+            "type": "java",
+            "name": "mergedshort",
+            "request": "launch",
+            "mainClass": "sort.mergedshort",
+            "projectName": "DSA_adbf7eaa"
+        },
+        {
+            "type": "java",
+            "name": "sarching",
+            "request": "launch",
+            "mainClass": "sarching",
+            "projectName": "DSA_adbf7eaa"
+        },
+        {
+            "type": "java",
+            "name": "twonosum",
+            "request": "launch",
+            "mainClass": "twonosum",
+            "projectName": "DSA_adbf7eaa"
+        },
+        {
+            "type": "java",
+            "name": "sarching",
+            "request": "launch",
+            "mainClass": "sarching",
+            "projectName": "DSA_57dbd2c"
+        },
+        {
+            "type": "java",
+            "name": "loop",
+            "request": "launch",
+            "mainClass": "loop",
+            "projectName": "DSA_57dbd2c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Bubble",
+            "request": "launch",
+            "mainClass": "Bubble",
+            "projectName": "DSA_57dbd2c"
+        },
+        {
+            "type": "java",
+            "name": "Famework",
+            "request": "launch",
+            "mainClass": "Famework",
+            "projectName": "DSA_57dbd2c"
+        },
+        {
+            "type": "java",
+            "name": "Framwork",
+            "request": "launch",
+            "mainClass": "Framwork",
+            "projectName": "DSA_57dbd2c"
+        },
+        {
+            "type": "java",
+            "name": "hashing",
+            "request": "launch",
+            "mainClass": "HASHMAP.hashing",
+            "projectName": "DSA_57dbd2c"
+        },
+        {
+            "type": "java",
+            "name": "Inheritace",
+            "request": "launch",
+            "mainClass": "Inheritace",
+            "projectName": "DSA_57dbd2c"
+        },
+        {
+            "type": "java",
+            "name": "Insertion",
+            "request": "launch",
+            "mainClass": "Insertion",
+            "projectName": "DSA_57dbd2c"
+        },
+        {
+            "type": "java",
+            "name": "LL",
+            "request": "launch",
+            "mainClass": "LL",
+            "projectName": "DSA_57dbd2c"
+        },
+        {
+            "type": "java",
+            "name": "QLL",
+            "request": "launch",
+            "mainClass": "QLL",
+            "projectName": "DSA_57dbd2c"
+        },
+        {
+            "type": "java",
+            "name": "LinkedLisrt",
+            "request": "launch",
+            "mainClass": "RUF.LinkedLisrt",
+            "projectName": "DSA_57dbd2c"
+        },
+        {
+            "type": "java",
+            "name": "linledlist",
+            "request": "launch",
+            "mainClass": "RUF.linledlist",
+            "projectName": "DSA_57dbd2c"
+        },
+        {
+            "type": "java",
+            "name": "speech",
+            "request": "launch",
+            "mainClass": "RUF.speech",
+            "projectName": "DSA_57dbd2c"
+        },
+        {
+            "type": "java",
+            "name": "Selection",
+            "request": "launch",
+            "mainClass": "Selection",
+            "projectName": "DSA_57dbd2c"
+        },
+        {
+            "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "basic",
+            "projectName": "DSA_57dbd2c"
+        },
+        {
+            "type": "java",
+            "name": "curcularQ",
+            "request": "launch",
+            "mainClass": "curcularQ",
+            "projectName": "DSA_57dbd2c"
+        },
+        {
+            "type": "java",
+            "name": "customLL",
+            "request": "launch",
+            "mainClass": "customLL",
+            "projectName": "DSA_57dbd2c"
+        },
+        {
+            "type": "java",
+            "name": "hashing(1)",
+            "request": "launch",
+            "mainClass": "hashing",
+            "projectName": "DSA_57dbd2c"
+        },
+        {
+            "type": "java",
+            "name": "hellow",
+            "request": "launch",
+            "mainClass": "hellow",
+            "projectName": "DSA_57dbd2c"
+        },
+        {
+            "type": "java",
+            "name": "mergedshort",
+            "request": "launch",
+            "mainClass": "sort.mergedshort",
+            "projectName": "DSA_57dbd2c"
+        },
+        {
+            "type": "java",
+            "name": "twonosum",
+            "request": "launch",
+            "mainClass": "twonosum",
+            "projectName": "DSA_57dbd2c"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.guides.bracketPairsHorizontal": false,
+    "editor.matchBrackets": "near",
+    "editor.autoClosingBrackets": "always",
+    "java.debug.settings.onBuildFailureProceed": true
+}
