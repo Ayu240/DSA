@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sarching",
+            "request": "launch",
+            "mainClass": "sarching",
+            "projectName": "DSA_93f4c47f"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "DSA_93f4c47f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "DSA_93f4c47f"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "ReverseArray",
+            "projectName": "DSA_93f4c47f"
+        },
+        {
+            "type": "java",
             "name": "ReverseList",
             "request": "launch",
             "mainClass": "ReverseList",
